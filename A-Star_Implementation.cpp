@@ -1,9 +1,3 @@
-// RAGAS, Elisha John D.
-// BSCS - 3C
-
-// Machine Problem 1 - Implementaion of A* Algortihm to solve 8-Puzzle Problem
-
-// g++ RAGAS_MP1-A-Star.cpp -o RAGAS_MP1-A-Star
 // Used list instead of stacks and queues
 
 #include <iostream>     // standard i/o
