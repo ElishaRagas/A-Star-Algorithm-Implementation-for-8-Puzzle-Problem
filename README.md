@@ -3,7 +3,7 @@
 This is my simple implementation of the A* Algorithm to solve the 8 Puzzle Problem. I made in order to have a better understanding of how the A* algorithm works and also because this was a project at school. LOL, XD
 
 ## C++
-I wrote this on c++, so everything is on command line only. To compile it just type
+I wrote this on c++, so everything is on command line only.
 To compile:
 ```
 g++ A-Star_Implementation.cpp -o A-Star_Implementation
